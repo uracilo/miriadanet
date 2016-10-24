@@ -1,0 +1,14 @@
+body{
+	color: white;
+	margin: none;
+}
+
+.color{
+	background-color: black;
+	height: 100vh;
+	text-align: center;
+}
+
+.rightAlign{
+	text-align: right;
+}
